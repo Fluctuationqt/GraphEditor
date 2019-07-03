@@ -1,0 +1,9 @@
+Node 0,-2.390864,-2.400341,-1.672912E-07,Node 1,Node 4,Node 2,Node 3,Node 5,Node 6,Node 7,Node 8
+Node 1,-6.800682,1.38962,5,Node 6,Node 5,Node 0,Node 2,Node 3,Node 4,Node 7,Node 8
+Node 2,1.204295,1.672984,5.000001,Node 3,Node 0,Node 1,Node 4,Node 5,Node 6,Node 7,Node 8
+Node 3,1.877288,2.027208,-6.999999,Node 0,Node 1,Node 2,Node 4,Node 5,Node 6,Node 7,Node 8
+Node 4,-1.629327,1.991788,-6.999999,Node 0,Node 1,Node 2,Node 3,Node 5,Node 6,Node 7,Node 8
+Node 5,-8.394612,1.247958,-7,Node 6,Node 7,Node 0,Node 1,Node 2,Node 3,Node 4,Node 8
+Node 6,-5.773506,2.381412,-6.999999,Node 0,Node 1,Node 2,Node 3,Node 4,Node 5,Node 7,Node 8
+Node 7,-11.86581,-0.593899,-7,Node 0,Node 1,Node 2,Node 3,Node 4,Node 5,Node 6,Node 8
+Node 8,-2.25105,-7.387928,-6.00425,Node 0,Node 1,Node 2,Node 3,Node 4,Node 5,Node 6,Node 7

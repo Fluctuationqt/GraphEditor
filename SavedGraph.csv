@@ -1,0 +1,7 @@
+Node0,0,0,0,Node1,Node2,Node3,Node4,Node5,Node6
+Node1,5,2.379949,-11.20168,Node0,Node2,Node3,Node4,Node5,Node6
+Node2,4.750858,7.172993,-9.62243,Node0,Node1,Node3,Node4,Node5,Node6
+Node3,9.129795,5.656268,-7.546474,Node0,Node1,Node2,Node4,Node5,Node6
+Node4,3.21906,5.705922,-11.40427,Node0,Node1,Node2,Node3,Node5,Node6
+Node5,10.22798,7.492225,-1.875265,Node0,Node1,Node2,Node3,Node4,Node6
+Node6,7.739059,10.71727,-3.007165,Node0,Node1,Node2,Node3,Node4,Node5
